@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **yocto**
 
-- 💬 Ask me about **Dotnet , MEARN**
+- 💬 Ask me about **C ,C++ ,Dotnet , MEARN**
 
 - 📫 How to reach me **Bassem.maalej@hotmail.com**
 
